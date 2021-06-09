@@ -35,7 +35,7 @@ Here is the list of the current active members:
 ### Useful Resources
 
 There are many problems that pop up again and again in front of a Khoury PhD student.
-KGSA tries to coordinate a wealth of common knowledged collected by many generations of the students.
+KGSA tries to coordinate a wealth of common knowledge collected by many generations of the students.
 We suggest trying the following resources to find answers to your questions:
 
 * [Khoury PhD Pragrams page on Canvas][notebook-canvas]
