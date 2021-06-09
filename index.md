@@ -12,7 +12,7 @@ social space, and as a democratic body that will advocate for the interests of
 Khoury graduate students with the college administration.
 
 If you want to lear more about KGSA, check out [this presentation of our agenda][gsa-slides-spring-2021]
-from Spring 2021 and look 
+from Spring 2021.
 
 [gsa-slides-spring-2021]: https://docs.google.com/presentation/d/1prKtG2riNKsg6yTM3xEMUW1OXdo_X6J-0_xUjAd_d8w/edit?usp=sharing
 
