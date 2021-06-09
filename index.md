@@ -11,7 +11,7 @@ like other GSA organizations in other departments, we intend to serve as both a
 social space, and as a democratic body that will advocate for the interests of
 Khoury graduate students with the college administration.
 
-If you want to lear more about KGSA, check out [this presentation of our agenda][gsa-slides-spring-2021]
+If you want to learn more about the Khoury GSA, check out [this presentation of our agenda][gsa-slides-spring-2021]
 from Spring 2021.
 
 [gsa-slides-spring-2021]: https://docs.google.com/presentation/d/1prKtG2riNKsg6yTM3xEMUW1OXdo_X6J-0_xUjAd_d8w/edit?usp=sharing
@@ -44,7 +44,7 @@ We suggest trying the following resources to find answers to your questions:
 
 * [Crowd-sourced Google Doc][notebook-gdoc]
 
-Note that the first resource is administred by the College, whereas the other two
+Note that the first resource is administered by the College, whereas the other two
 are crowd-sourced by the students, and if you have ideas on what to add there,
 let us know via any of the above mentioned means or by opening an issue against [this
 website's repository on GitHub][kgsa-site-source].
