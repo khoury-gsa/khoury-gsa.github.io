@@ -45,9 +45,7 @@ We suggest trying the following resources to find answers to your questions:
 * [Crowd-sourced Google Doc][notebook-gdoc]
 
 Note that the first resource is administered by the College, whereas the other two
-are crowd-sourced by the students, and if you have ideas on what to add there,
-let us know via any of the above mentioned means or by opening an issue against [this
-website's repository on GitHub][kgsa-site-source].
+are crowd-sourced by the students, so feel free to add any useful information there.
 
 If you are more of an “ask-around” person, do not hesitate to post your question on the 
 [Khoury PhDs Slack][khoury-slack] `#everyone` channel, or shoot an email to
@@ -57,7 +55,6 @@ If you are more of an “ask-around” person, do not hesitate to post your ques
 [confluence]: https://wiki.khoury.northeastern.edu/display/phdhub/
 [notebook-gdoc]: https://docs.google.com/document/d/1Suq1V96T41QlXbR3EBHR7l8B1KbFZGOuIxtDe-72VeE/edit?usp=sharing
 [sarah]: https://www.khoury.northeastern.edu/people/sarah-gale/
-[kgsa-site-source]: https://github.com/khoury-gsa/khoury-gsa.github.io
 
 ### Our Calendar
 
