@@ -14,13 +14,10 @@ Khoury graduate students with the college administration.
 If you want to learn more about the Khoury GSA, check out [this presentation of our agenda][gsa-slides-spring-2021]
 from Spring 2021.
 
-[gsa-slides-spring-2021]: https://docs.google.com/presentation/d/1prKtG2riNKsg6yTM3xEMUW1OXdo_X6J-0_xUjAd_d8w/edit?usp=sharing
-
 Contact us via [kgsa-oc@googlegroups.com](mailto://kgsa-oc@googlegroups.com) or
 say “Hi!” in the [Khoury PhDs Slack][khoury-slack] `#gsa` channel: we
 are always happy to meet new people and hope to get more students as active members!
-
-[khoury-slack]: https://khouryphds.slack.com
+To get added to the Slack, use the `<NEU-username>@husky.neu.edu` email.
 
 Here is the list of the current active members:
 
@@ -31,6 +28,9 @@ Here is the list of the current active members:
 * [Shuwen Jethro Sun](https://www.khoury.northeastern.edu/people/shuwen-jethro-sun/),
 * [Andrew Walter](https://www.khoury.northeastern.edu/people/andrew-thomas-walter/),
 * [Ming-Ho Yee](https://www.khoury.northeastern.edu/people/ming-ho-yee/).
+
+[gsa-slides-spring-2021]: https://docs.google.com/presentation/d/1prKtG2riNKsg6yTM3xEMUW1OXdo_X6J-0_xUjAd_d8w/edit?usp=sharing
+[khoury-slack]: https://khouryphds.slack.com
 
 ### Useful Resources
 
