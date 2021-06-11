@@ -1,4 +1,4 @@
 
 # Khoury GSA Website Source
 
-Edit [index.md](./index.md) to change the title page of the website.
+Edit [index.md](./index.md) to change the title page of [the website](https://khoury-gsa.github.io).

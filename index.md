@@ -17,7 +17,7 @@ from Spring 2021.
 Contact us via [kgsa-oc@googlegroups.com](mailto://kgsa-oc@googlegroups.com) or
 say “Hi!” in the [Khoury PhDs Slack][khoury-slack] `#gsa` channel: we
 are always happy to meet new people and hope to get more students as active members!
-To get added to the Slack, use the `<NEU-username>@husky.neu.edu` email.
+To get added to the Slack, use the `<NEU‑username>@husky.neu.edu` email.
 
 Here is the list of the current active members:
 
