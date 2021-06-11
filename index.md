@@ -11,9 +11,15 @@ like other GSA organizations in other departments, we intend to serve as both a
 social space, and as a democratic body that will advocate for the interests of
 Khoury graduate students with the college administration.
 
-<p><mark>Contact:</mark> <a href="mailto://kgsa-oc@googlegroups.com">kgsa-oc@googlegroups.com</a></p>
+If you want to learn more about the Khoury GSA, check out [this presentation of our agenda][gsa-slides-spring-2021]
+from Spring 2021.
 
-Or get in touch with any of the current organizing members:
+Contact us via [kgsa-oc@googlegroups.com](mailto://kgsa-oc@googlegroups.com) or
+say “Hi!” in the [Khoury PhDs Slack][khoury-slack] `#gsa` channel: we
+are always happy to meet new people and hope to get more students as active members!
+To get added to the Slack, use the `<NEU-username>@husky.neu.edu` email.
+
+Here is the list of the current active members:
 
 * [Yulia Belyakova](https://www.khoury.northeastern.edu/people/julia-belyakova/),
 * [Kutub Gandhi](https://www.khoury.northeastern.edu/people/kutub-gandhi/),
@@ -23,6 +29,32 @@ Or get in touch with any of the current organizing members:
 * [Andrew Walter](https://www.khoury.northeastern.edu/people/andrew-thomas-walter/),
 * [Ming-Ho Yee](https://www.khoury.northeastern.edu/people/ming-ho-yee/).
 
+[gsa-slides-spring-2021]: https://docs.google.com/presentation/d/1prKtG2riNKsg6yTM3xEMUW1OXdo_X6J-0_xUjAd_d8w/edit?usp=sharing
+[khoury-slack]: https://khouryphds.slack.com
+
+### Useful Resources
+
+There are many problems that pop up again and again in front of a Khoury PhD student.
+KGSA tries to coordinate a wealth of common knowledge collected by many generations of the students.
+We suggest trying the following resources to find answers to your questions:
+
+* [Khoury PhD Pragrams page on Canvas][notebook-canvas]
+
+* [PhD Hub on Confluence][confluence]
+
+* [Crowd-sourced Google Doc][notebook-gdoc]
+
+Note that the first resource is administered by the College, whereas the other two
+are crowd-sourced by the students, so feel free to add any useful information there.
+
+If you are more of an “ask-around” person, do not hesitate to post your question on the 
+[Khoury PhDs Slack][khoury-slack] `#everyone` channel, or shoot an email to
+[Sarah Gale][sarah] who has been tremendously helpful for many of us.
+
+[notebook-canvas]: https://northeastern.instructure.com/courses/58310/pages/khoury-phd-programs
+[confluence]: https://wiki.khoury.northeastern.edu/display/phdhub/
+[notebook-gdoc]: https://docs.google.com/document/d/1Suq1V96T41QlXbR3EBHR7l8B1KbFZGOuIxtDe-72VeE/edit?usp=sharing
+[sarah]: https://www.khoury.northeastern.edu/people/sarah-gale/
 
 ### Our Calendar
 
