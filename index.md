@@ -12,7 +12,8 @@ social space, and as a democratic body that will advocate for the interests of
 Khoury graduate students with the college administration.
 
 If you want to learn more about the Khoury GSA, check out [this presentation of our agenda][gsa-slides-spring-2021]
-from Spring 2021.
+from Spring 2021. You can also read the [short descriptions](#khoury-gsa-activities) of
+our activities.
 
 Contact us via [kgsa-oc@googlegroups.com](mailto://kgsa-oc@googlegroups.com) or
 say “Hi!” in the [Khoury PhDs Slack][khoury-slack] `#gsa` channel: we
@@ -60,3 +61,44 @@ If you are more of an “ask-around” person, do not hesitate to post your ques
 
 <p><iframe src="https://calendar.google.com/calendar/embed?height=300&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=Y25qZzJqNGN0NWVqY2NhYWU2Z29zYjRzczBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D50000&amp;mode=AGENDA&amp;showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showCalendars=0" style="border-width:0" width="800" height="300" frameborder="0" scrolling="no"></iframe>
 </p>
+
+### Khoury GSA Activities
+
+**Social Events**
+
+* _Social Hours._ Pre-COVID, Social Hour was held every week, in ISEC or WVH. The
+college provided a small budget to order food and drinks (e.g., pizza,
+doughnuts, bagels, cookies, fruit, coffee, etc.), allowing PhD students across
+different labs to take a break, gather, and socialize.
+
+* _Game Nights._ A Game Night is essentially a Social Hour held every other week,
+in the evening, with dinner provided. It usually involves playing board games
+(provided by the college and attendees), but other proposed activities include
+movies, visiting the Museum of Fine Arts, etc. In the COVID era, we have moved
+to playing board games over Zoom.
+
+* _Undistinguished Lecture Series._ An event where a student gives a talk on any
+topic they desire, as long as it is not their research. This was typically held
+at the beginning of a Game Night. A fun end-of-semester tradition was to play
+“slideshow karaoke.”
+
+**Representing Khoury PhD students**
+
+* _Meetings with the Khoury admins._ Approximately once a month, we meet with the
+administration (currently Sarah Gale, Frank Tip, and Bryan Lackaye) to discuss
+student concerns, provide updates, and share news.
+
+* _Town Hall coordination._ Once a semester, the Khoury administration organizes
+a PhD Town Hall for students to raise their concerns and ask questions. The GSA
+collects student concerns ahead of the Town Hall, debriefs the admin on those
+concerns, and helps present these issues at the Town Hall.
+
+* _Monthly GSA meetings._ We meet once a month to coordinate and plan our various
+activities and events. These meetings are open to all Khoury PhD students:
+anyone can attend and present, or just observe.
+
+* _Other activities._ There are many issues we are working on, or planning to work
+on. **We are looking for new GSA members to help us with these activities.**
+These include advocating for better equipment and remote work conditions,
+improving the Academic Review process, improving the course waiver process, and
+more.
