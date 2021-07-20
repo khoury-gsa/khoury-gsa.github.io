@@ -89,8 +89,7 @@ at the beginning of a Game Night. A fun end-of-semester tradition was to play
 **Representing Khoury PhD students**
 
 * _Meetings with the Khoury admins._ Approximately once a month, we meet with the
-administration (currently Sarah Gale, Frank Tip, and Bryan Lackaye) to discuss
-student concerns, provide updates, and share news.
+administration to discuss student concerns, provide updates, and share news.
 
 * _Town Hall coordination._ Once a semester, the Khoury administration organizes
 a PhD Town Hall for students to raise their concerns and ask questions. The GSA
