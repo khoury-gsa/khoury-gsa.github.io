@@ -50,16 +50,17 @@ are crowd-sourced by the students, so feel free to add any useful information th
 
 If you are more of an “ask-around” person, do not hesitate to post your question on the 
 [Khoury PhDs Slack][khoury-slack] `#everyone` channel, or shoot an email to
-Khoury administration mailbox for graduate students' questions:
-[khoury-graduateprograms@northeastern.edu][khoury-grad-mailbox].
-For sensitive or time-critical questions, the Khoury administration 
-suggests contacting Kellie Melchin ([e.g. via email][kellie-email]).
+the Assistant Director Graduate Student Services, [Laura Adrien][laura-email]
+When Laura is away, mailing to the Khoury administration mailbox for graduate
+students' questions [khoury-graduateprograms@northeastern.edu][khoury-grad-mailbox]
+may help. For sensitive or time-critical questions, the Khoury administration 
+suggests pinging Laura and/or Kellie Melchin via MS Teams.
 
 [notebook-canvas]: https://northeastern.instructure.com/courses/58310/pages/khoury-phd-programs
 [confluence]: https://wiki.khoury.northeastern.edu/display/phdhub/
 [notebook-gdoc]: https://docs.google.com/document/d/1Suq1V96T41QlXbR3EBHR7l8B1KbFZGOuIxtDe-72VeE/edit?usp=sharing
 [khoury-grad-mailbox]: mailto:khoury-graduateprograms@northeastern.edu
-[kellie-email]: mailto:k.melchin@northeastern.edu
+[laura-email]: mailto:l.adrien@northeastern.edu
 
 ### Our Calendar
 
