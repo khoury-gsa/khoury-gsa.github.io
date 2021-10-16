@@ -3,6 +3,8 @@ layout: default
 title: About Us
 ---
 
+## About US
+
 If you want to learn more about the Khoury GSA, check out [this presentation of our agenda][gsa-slides-summer-2021]
 from Spring 2021. You can also read the [short descriptions](#khoury-gsa-activities) of
 our activities.
