@@ -11,10 +11,11 @@ like other GSA organizations in other departments, we intend to serve as both a
 social space, and as a democratic body that will advocate for the interests of
 Khoury graduate students with the college administration.
 
-Contact us via [kgsa-oc@googlegroups.com](mailto://kgsa-oc@googlegroups.com) or
-say “Hi!” in the [Khoury PhDs Slack][khoury-slack] `#gsa` channel: we
-are always happy to meet new people and hope to get more students as active members!
+**Contact us** via [kgsa-oc@googlegroups.com](mailto://kgsa-oc@googlegroups.com) or
+the [Khoury PhDs Slack][khoury-slack] `#gsa` channel: we
+are always happy to meet new people and hope to get more members!
 To get added to the Slack, use the `<NEU‑username>@husky.neu.edu` email.
+Learn more [about us](/about.html) and check out [our calendar](./calendar.html) on this website.
 
 [gsa-slides-summer-2021]: https://docs.google.com/presentation/d/1IDrAmfLbNO42R-nqtaYK4XjNJhvrfVaOjc7W8QQGRwk/edit?usp=sharing
 [khoury-slack]: https://khouryphds.slack.com
