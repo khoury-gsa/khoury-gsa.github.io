@@ -6,7 +6,7 @@ title: About Us
 ## About US
 
 If you want to learn more about the Khoury GSA, check out [this presentation of our agenda][gsa-slides-summer-2021]
-from Spring 2021. You can also read the [short descriptions](#khoury-gsa-activities) of
+from Spring 2021. You can also read the [short descriptions](./#representing-khoury-phd-students) of
 our activities.
 
 Here is the list of the current active members:
