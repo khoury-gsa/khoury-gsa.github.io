@@ -21,21 +21,25 @@ To get added to the Slack, use the `<NEU‑username>@husky.neu.edu` email.
 
 ### First Help
 
-There are many problems that pop up again and again in front of a Khoury PhD student.
-KGSA tries to coordinate a wealth of common knowledge collected by many generations of the students.
-We suggest trying the following resources to find answers to your questions:
+If you have a question regarding the PhD program,
+the following resources usually can help:
 
 * Official (maintained by Khoury admins): [Khoury PhD Pragrams page on Canvas][notebook-canvas]
 
-* Crowd-sourced by students: [PhD Hub on Confluence][confluence], [a Google Doc][notebook-gdoc],
+* Crowd-sourced by students: [PhD Hub on Confluence][confluence], [the Google Doc][notebook-gdoc],
   [KGSA website wiki][our-wiki].
 
-If you are more of an “ask-around” person, do not hesitate to post your question on the 
-[Khoury PhDs Slack][khoury-slack] `#everyone` channel, or shoot an email to
-the Khoury administration mailbox for graduate students' questions
-[khoury-graduateprograms@northeastern.edu][khoury-grad-mailbox].
-For sensitive or time-critical questions, the Khoury administration
-suggests pinging Laura Adrien and/or Kellie Melchin via MS Teams.
+If the question remains, email the Khoury administration:
+
+* [khoury-graduateprograms@northeastern.edu][khoury-grad-mailbox] 
+
+This goes to Laura Adrien, Kellie Melchin and Amal Ahmed. Normally, Laura will take care of it
+if she is in the office; otherwise the other admins will take it.
+For sensitive or time-critical questions, the admins
+suggest pinging Laura and/or Kellie via MS Teams.
+
+To solicit common wisdom, post your question on the 
+[Khoury PhDs Slack][khoury-slack] `#everyone` channel.
 
 [notebook-canvas]: https://northeastern.instructure.com/courses/58310/pages/khoury-phd-programs
 [confluence]: https://wiki.khoury.northeastern.edu/display/phdhub/
@@ -70,8 +74,8 @@ at the beginning of a Game Night. A fun end-of-semester tradition was to play
 
 ### Representing Khoury PhD students
 
-* _Meetings with the Khoury admins._ Approximately once a month, we meet with the
-administration to discuss student concerns, provide updates, and share news.
+* _Meetings with the Khoury admins._ We meet with the
+administration regularly to discuss student concerns, provide updates, and share news.
 
 * _Town Hall coordination._ Once a semester, the Khoury administration organizes
 a PhD Town Hall for students to raise their concerns and ask questions. The GSA
