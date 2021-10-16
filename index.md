@@ -11,42 +11,24 @@ like other GSA organizations in other departments, we intend to serve as both a
 social space, and as a democratic body that will advocate for the interests of
 Khoury graduate students with the college administration.
 
-If you want to learn more about the Khoury GSA, check out [this presentation of our agenda][gsa-slides-summer-2021]
-from Spring 2021. You can also read the [short descriptions](#khoury-gsa-activities) of
-our activities.
-
 Contact us via [kgsa-oc@googlegroups.com](mailto://kgsa-oc@googlegroups.com) or
 say “Hi!” in the [Khoury PhDs Slack][khoury-slack] `#gsa` channel: we
 are always happy to meet new people and hope to get more students as active members!
 To get added to the Slack, use the `<NEU‑username>@husky.neu.edu` email.
 
-Here is the list of the current active members:
-
-* [Yulia Belyakova](https://www.khoury.northeastern.edu/people/julia-belyakova/),
-* [Kutub Gandhi](https://www.khoury.northeastern.edu/people/kutub-gandhi/),
-* [Nathan Partlan](https://www.khoury.northeastern.edu/people/nathan-partlan/),
-* [Artem Pelenitsyn](https://www.khoury.northeastern.edu/people/artem-pelenitsyn/),
-* [Shuwen Jethro Sun](https://www.khoury.northeastern.edu/people/shuwen-jethro-sun/),
-* [Andrew Walter](https://www.khoury.northeastern.edu/people/andrew-thomas-walter/),
-* [Ming-Ho Yee](https://www.khoury.northeastern.edu/people/ming-ho-yee/).
-
 [gsa-slides-summer-2021]: https://docs.google.com/presentation/d/1IDrAmfLbNO42R-nqtaYK4XjNJhvrfVaOjc7W8QQGRwk/edit?usp=sharing
 [khoury-slack]: https://khouryphds.slack.com
 
-### Useful Resources
+### First Help
 
 There are many problems that pop up again and again in front of a Khoury PhD student.
 KGSA tries to coordinate a wealth of common knowledge collected by many generations of the students.
 We suggest trying the following resources to find answers to your questions:
 
-* [Khoury PhD Pragrams page on Canvas][notebook-canvas]
+* Official (maintained by Khoury admins): [Khoury PhD Pragrams page on Canvas][notebook-canvas]
 
-* [PhD Hub on Confluence][confluence]
-
-* [Crowd-sourced Google Doc][notebook-gdoc]
-
-Note that the first resource is administered by the College, whereas the other two
-are crowd-sourced by the students, so feel free to add any useful information there.
+* Crowd-sourced by students: [PhD Hub on Confluence][confluence], [a Google Doc][notebook-gdoc],
+  [KGSA website wiki][our-wiki].
 
 If you are more of an “ask-around” person, do not hesitate to post your question on the 
 [Khoury PhDs Slack][khoury-slack] `#everyone` channel, or shoot an email to
@@ -59,33 +41,37 @@ suggests pinging Laura Adrien and/or Kellie Melchin via MS Teams.
 [confluence]: https://wiki.khoury.northeastern.edu/display/phdhub/
 [notebook-gdoc]: https://docs.google.com/document/d/1Suq1V96T41QlXbR3EBHR7l8B1KbFZGOuIxtDe-72VeE/edit?usp=sharing
 [khoury-grad-mailbox]: mailto:khoury-graduateprograms@northeastern.edu
+[our-wiki]: https://github.com/khoury-gsa/khoury-gsa.github.io/wiki/FAQ
 
 ### Our Calendar
 
 <p><iframe src="https://calendar.google.com/calendar/embed?height=300&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=Y25qZzJqNGN0NWVqY2NhYWU2Z29zYjRzczBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D50000&amp;mode=AGENDA&amp;showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showCalendars=0" style="border-width:0" width="800" height="300" frameborder="0" scrolling="no"></iframe>
 </p>
 
-### Khoury GSA Activities
 
-**Social Events**
+### Social Events for Khoury PhD Students
+
+##### Currently (October 2021) active
+
+* _Game Nights_  are held every other week on Fridays, in the evening. 
+It usually involves playing board games
+(provided by the college and attendees), but other proposed activities include
+movies, visiting the Museum of Fine Arts, etc.
+We used to organize dinner but that has not resumed after the pandemic.
+
+##### Currently (October 2021) defunct
 
 * _Social Hours._ Pre-COVID, Social Hour was held every week, in ISEC or WVH. The
 college provided a small budget to order food and drinks (e.g., pizza,
 doughnuts, bagels, cookies, fruit, coffee, etc.), allowing PhD students across
 different labs to take a break, gather, and socialize.
 
-* _Game Nights._ A Game Night is essentially a Social Hour held every other week,
-in the evening, with dinner provided. It usually involves playing board games
-(provided by the college and attendees), but other proposed activities include
-movies, visiting the Museum of Fine Arts, etc. In the COVID era, we have moved
-to playing board games over Zoom.
-
 * _Undistinguished Lecture Series._ An event where a student gives a talk on any
 topic they desire, as long as it is not their research. This was typically held
 at the beginning of a Game Night. A fun end-of-semester tradition was to play
 “slideshow karaoke.”
 
-**Representing Khoury PhD students**
+### Representing Khoury PhD students
 
 * _Meetings with the Khoury admins._ Approximately once a month, we meet with the
 administration to discuss student concerns, provide updates, and share news.
