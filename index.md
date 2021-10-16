@@ -47,11 +47,14 @@ suggests pinging Laura Adrien and/or Kellie Melchin via MS Teams.
 
 ##### Currently (October 2021) active
 
-* _Game Nights_  are held every other week on Fridays, in the evening. 
-It usually involves playing board games
-(provided by the college and attendees), but other proposed activities include
+* _Game Nights_ (#game-nights on Slack) are held every other Friday, in the evening. 
+They usually involve playing board games
+(provided by the college and attendees), but other activities include
 movies, visiting the Museum of Fine Arts, etc.
-We used to organize dinner but that has not resumed after the pandemic.
+We used to organize dinner but that has not resumed after the pandemic. The host is Kutub Gandhi.
+
+* _Book Club_ (#book-club on Slack) is held every other Wednesday 5 PM and entails reading books and discussing
+them. Currently, the focus is on science fiction. The host is Daniel Melcer.
 
 ##### Currently (October 2021) defunct
 
