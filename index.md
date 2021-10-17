@@ -72,23 +72,3 @@ different labs to take a break, gather, and socialize.
 topic they desire, as long as it is not their research. This was typically held
 at the beginning of a Game Night. A fun end-of-semester tradition was to play
 “slideshow karaoke.”
-
-### Representing Khoury PhD students
-
-* _Meetings with the Khoury admins._ We meet with the
-administration regularly to discuss student concerns, provide updates, and share news.
-
-* _Town Hall coordination._ Once a semester, the Khoury administration organizes
-a PhD Town Hall for students to raise their concerns and ask questions. The GSA
-collects student concerns ahead of the Town Hall, debriefs the admin on those
-concerns, and helps present these issues at the Town Hall.
-
-* _Monthly GSA meetings._ We meet once a month to coordinate and plan our various
-activities and events. These meetings are open to all Khoury PhD students:
-anyone can attend and present, or just observe.
-
-* _Other activities._ There are many issues we are working on, or planning to work
-on. **We are looking for new GSA members to help us with these activities.**
-These include advocating for better equipment and remote work conditions,
-improving the Academic Review process, improving the course waiver process, and
-more.
