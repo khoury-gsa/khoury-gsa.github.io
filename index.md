@@ -27,8 +27,11 @@ the following resources usually can help:
 
 * Official (maintained by Khoury admins): [Khoury PhD Pragrams page on Canvas][notebook-canvas]
 
-* Crowd-sourced by students: [PhD Hub on Confluence][confluence], [the Google Doc][notebook-gdoc],
-  [KGSA website wiki][our-wiki].
+* Older version of the part of the previous: [Academic Catalog → PhD Program Requirements][program-reqs-old]
+  (doesn't require login with the NEU account)
+
+* Crowd-sourced by students: [PhD Hub on Confluence][confluence], [a Google Doc][notebook-gdoc],
+  [KGSA website wiki][our-wiki]
 
 If the question remains, email the Khoury administration:
 
@@ -43,6 +46,7 @@ To solicit common wisdom, post your question on the
 [Khoury PhDs Slack][khoury-slack] `#everyone` channel.
 
 [notebook-canvas]: https://northeastern.instructure.com/courses/58310/pages/khoury-phd-programs
+[program-reqs-old]: http://catalog.northeastern.edu/graduate/computer-information-science/computer-science/computer-science-phd/
 [confluence]: https://wiki.khoury.northeastern.edu/display/phdhub/
 [notebook-gdoc]: https://docs.google.com/document/d/1Suq1V96T41QlXbR3EBHR7l8B1KbFZGOuIxtDe-72VeE/edit?usp=sharing
 [khoury-grad-mailbox]: mailto:khoury-graduateprograms@northeastern.edu
