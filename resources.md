@@ -3,6 +3,12 @@ layout: default
 title: NEU Resources
 ---
 
+### Khoury Resources
+
+- [PhD Startup Funds Policy][startup] (Fall 2021 update)
+
+[startup]: ./docs/PhD_Startup-Fall-2021.pdf
+
 ### NEU Educational Resources
 
 - [TRACE course evaluations](https://www.applyweb.com/eval/shibboleth/neu/36892)
