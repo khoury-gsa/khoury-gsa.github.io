@@ -33,9 +33,10 @@ the following resources usually can help:
 * Crowd-sourced by students: [PhD Hub on Confluence][confluence], [a Google Doc][notebook-gdoc],
   [KGSA website wiki][our-wiki]
 
-If the question remains, email the Khoury administration:
+If the question remains:
 
-* [khoury-graduateprograms@northeastern.edu][khoury-grad-mailbox] 
+* Email the khoury administration: [khoury-graduateprograms@northeastern.edu][khoury-grad-mailbox]
+* [Set up a meeting with Laura](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnortheastern.campus.eab.com%2Fpal%2FWu_BybLIkR&data=04%7C01%7Cgandhi.ku%40northeastern.edu%7C93803896dfd74ccb520108d9a87ed168%7Ca8eec281aaa34daeac9b9a398b9215e7%7C0%7C0%7C637726084896798159%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Rt4hzAObRIvrqFsXv%2BHzHBa510Ks44dvlrQ7p5mjuv4%3D&reserved=0)
 
 This goes to Laura Adrien, Kellie Melchin and Amal Ahmed. Normally, Laura will take care of it
 if she is in the office; otherwise the other admins will take it.
