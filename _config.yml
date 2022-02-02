@@ -31,7 +31,8 @@ plugins:
 
 # A list of the pages to display in the navigation bar
 header_pages:
-  - resources.md
+  - khoury-resources.md
+  - neu-resources.md
   - calendar.md
   - about.md
 

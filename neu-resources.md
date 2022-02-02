@@ -3,19 +3,18 @@ layout: default
 title: NEU Resources
 ---
 
-### Khoury Resources
-
-- [PhD Startup Funds Policy][startup] (Fall 2021 update)
-
-[startup]: ./docs/PhD_Startup-Fall-2021.pdf
-
 ### NEU Educational Resources
 
 - [TRACE course evaluations](https://www.applyweb.com/eval/shibboleth/neu/36892)
 
+### Healthcare
+
+- [Portal devoted to NUSHP][nushp] — NEU's health insurance plan for students.
+
+[nushp]: https://studenthealthplan.northeastern.edu/
+
 
 ### NEU Resources to Seek Help
-
 
 #### 24/7 Hotlines for Survivors of Sexual Violence:
 - Rape, Abuse, & Incest National Network - National Sexual Assault Hotline: +1.800.656.4673 or [web chat](https://hotline.rainn.org/online)
