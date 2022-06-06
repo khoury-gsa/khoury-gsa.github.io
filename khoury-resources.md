@@ -10,6 +10,17 @@ title: Khoury Resources
 [startup]: ./docs/PhD_Startup-Fall-2021.pdf
 
 
+### PhD Student Representatives
+
+|-----------------------------------|---------------------------------------------|
+| Hiring Committee                  | Bahruz Jabiyev, Alexi Turcotte, Ankit Kumar |
+| Khoury 40th Anniversary Committee | Prasanth Murali                             |
+| PhD Curriculum Committee for CS   | Satyajit Gokhale                            |
+| PhD Curriculum Committee for CY   | Johanna Gunawan                             |
+| PhD PHI Admissions Committee      | Ethan Rogers                                |
+| PhD CS Admissions Committee       | Xueguang Luke Lyu                           |
+
+
 ### Social Events for Khoury PhD Students
 
 ##### Active (as of Summer 2022). See [the calendar](https://khoury-gsa.github.io/calendar.html) for more details
