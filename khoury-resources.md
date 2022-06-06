@@ -21,6 +21,15 @@ title: Khoury Resources
 | PhD CS Admissions Committee       | Xueguang Luke Lyu                           |
 
 
+### PhD Town Halls
+
+The GSA gathers questions and take notes on PhD Town Halls held by the
+administration. [This G.Drive folder][thnotes] contains the notes (you need to log in with
+your Husky Google account).
+
+[thnotes]: https://drive.google.com/drive/folders/1mx4WM-QrtmPlllx_mFtnXV_7xw2Z6ONt?usp=sharing
+
+
 ### Social Events for Khoury PhD Students
 
 ##### Active (as of Summer 2022). See [the calendar](https://khoury-gsa.github.io/calendar.html) for more details
