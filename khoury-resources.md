@@ -10,7 +10,7 @@ title: Khoury Resources
 [startup]: ./docs/PhD_Startup-Fall-2021.pdf
 
 
-### PhD Student Representatives
+### PhD Student Representatives (2021/22)
 
 |-----------------------------------|---------------------------------------------|
 | Hiring Committee                  | Bahruz Jabiyev, Alexi Turcotte, Ankit Kumar |
