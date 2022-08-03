@@ -5,7 +5,6 @@ title: Calendar
 
 ## Our Calendar
 
-<p><iframe src="https://calendar.google.com/calendar/embed?height=300&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=Y25qZzJqNGN0NWVqY2NhYWU2Z29zYjRzczBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D50000&amp;mode=AGENDA&amp;showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showCalendars=0" style="border-width:0" width="800" height="300" frameborder="0" scrolling="no"></iframe>
+<p><iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&mode=AGENDA&src=Y25qZzJqNGN0NWVqY2NhYWU2Z29zYjRzczBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=MzVibmJzZ2dhczducjBrNXI4OXQ0cW9lY2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23D50000&color=%23C0CA33" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </p>
-
 
