@@ -3,6 +3,14 @@ layout: default
 title: NEU Resources
 ---
 
+This page is a sample of links to NEU resources that either answer some of most-commonly 
+asked questions or point to emergency contacts, but the sample is in no way comprehensive. 
+For an extensive collection of NEU-related links with a clean and light UI, check out:
+
+- [Husker app][husker] (community-driven)
+
+[husker]: https://husker.vercel.app/
+
 ### NEU Educational Resources
 
 - [TRACE course evaluations](https://www.applyweb.com/eval/shibboleth/neu/36892)
