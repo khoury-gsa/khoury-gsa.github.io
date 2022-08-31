@@ -5,9 +5,9 @@ title: Khoury Resources
 
 ### Financial Resources
 
-- [PhD Startup Funds Policy][startup] (last updated: Spring 2022)
+- [PhD Startup Funds Policy][startup] (last updated: Summer 2022)
 
-[startup]: ./docs/PhD_Startup-Fall-2021.pdf
+[startup]: ./docs/PhD_Startup-Spring-2022.pdf
 
 
 ### PhD Student Representatives (2021/22)
