@@ -26,7 +26,7 @@ If you have a question regarding the PhD program, the following resources usuall
 
 * Official (maintained by Khoury admins): [Khoury Resource Center][notebook-sharepoint]
 
-* Olderer iterations of the previous: 
+* Older iterations of the previous: 
     * [Academic Catalog → PhD Program Requirements][program-reqs-old]
     * [Khoury PhD Pragrams page on Canvas][notebook-canvas]
 
