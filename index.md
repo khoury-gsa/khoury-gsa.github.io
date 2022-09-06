@@ -22,13 +22,13 @@ Learn more [about us](/about.html) and check out [our calendar](./calendar.html)
 
 ### First Help
 
-If you have a question regarding the PhD program,
-the following resources usually can help:
+If you have a question regarding the PhD program, the following resources usually can help:
 
-* Official (maintained by Khoury admins): [Khoury PhD Pragrams page on Canvas][notebook-canvas]
+* Official (maintained by Khoury admins): [Khoury Resource Center][notebook-sharepoint]
 
-* Older version of the part of the previous: [Academic Catalog → PhD Program Requirements][program-reqs-old]
-  (doesn't require login with the NEU account)
+* Olderer iterations of the previous: 
+    * [Academic Catalog → PhD Program Requirements][program-reqs-old]
+    * [Khoury PhD Pragrams page on Canvas][notebook-canvas]
 
 * Crowd-sourced by students: [PhD Hub on Confluence][confluence], [a Google Doc][notebook-gdoc],
   [KGSA website wiki][our-wiki]
@@ -52,3 +52,4 @@ To solicit common wisdom, post your question on the
 [notebook-gdoc]: https://docs.google.com/document/d/1Suq1V96T41QlXbR3EBHR7l8B1KbFZGOuIxtDe-72VeE/edit?usp=sharing
 [khoury-grad-mailbox]: mailto:khoury-graduateprograms@northeastern.edu
 [our-wiki]: https://github.com/khoury-gsa/khoury-gsa.github.io/wiki/FAQ
+[notebook-sharepoint]: https://northeastern.sharepoint.com/sites/KhouryResourceCenter/SitePages/PHD.aspx?csf=1&web=1&e=Vbcor3
