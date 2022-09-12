@@ -7,7 +7,7 @@ title: Khoury Resources
 
 - [PhD Startup Funds Policy][startup] (last updated: Summer 2022)
 
-[startup]: ./docs/PhD_Startup-Spring-2022.pdf
+[startup]: https://northeastern.sharepoint.com/sites/KhouryResourceCenter/SitePages/Start-up-funds-and-purchasing-policies.aspx
 
 
 ### PhD Student Representatives (2021/22)
