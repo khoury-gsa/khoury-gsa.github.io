@@ -27,21 +27,22 @@ If you have a question regarding the PhD program, the following resources usuall
 * Official (maintained by Khoury admins): [Khoury Resource Center][notebook-sharepoint]
 
 * Older iterations of the previous: 
-    * [Academic Catalog → PhD Program Requirements][program-reqs-old]
-    * [Khoury PhD Pragrams page on Canvas][notebook-canvas]
+    * Academic Catalog → [PhD Program Requirements][program-reqs-old]
+    * Khoury PhD Programs page [on Canvas][notebook-canvas]
+
+      <!-- space -->
 
 * Crowd-sourced by students: [PhD Hub on Confluence][confluence], [a Google Doc][notebook-gdoc],
   [KGSA website wiki][our-wiki]
 
-If the question remains:
+Is the question remains, reach out to Laura or Pete, depending on the nature of
+question and your specialization:
 
-* Email the khoury administration: [khoury-graduateprograms@northeastern.edu][khoury-grad-mailbox]
-* [Set up a meeting with Laura](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnortheastern.campus.eab.com%2Fpal%2FWu_BybLIkR&data=04%7C01%7Cgandhi.ku%40northeastern.edu%7C93803896dfd74ccb520108d9a87ed168%7Ca8eec281aaa34daeac9b9a398b9215e7%7C0%7C0%7C637726084896798159%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Rt4hzAObRIvrqFsXv%2BHzHBa510Ks44dvlrQ7p5mjuv4%3D&reserved=0)
+| Laura Adrien ([l.adrien@northeastern.edu][laura-box]) | Pete Morency ([p.morency@northeastern.edu][pete-box]) |
+|:--------------------------------------|:----------------------------------------|
+|  - Advising for all PhD CY and PhD PHI; as well as PhD CS students in the Theory, & HCI research areas<br>- Funding (SGAs, Fellowships, tuition waivers, etc)<br>- Startup Fund<br>- Internships & work authorization<br>- Industry PhD<br>- Admissions | - Advising for all PhD CS students in the PL/FM/SE, AI & DS/Robotics, & Systems/Security research areas<br>- Lab seating<br>- Khoury Admin forms<br>- Proposal & Defense announcements & calendaring<br>- Student Groups<br>- PhD Representatives on Khoury Committees |
 
-This goes to Laura Adrien, Kellie Melchin and Amal Ahmed. Normally, Laura will take care of it
-if she is in the office; otherwise the other admins will take it.
-For sensitive or time-critical questions, the admins
-suggest pinging Laura and/or Kellie via MS Teams.
+**If you're not sure, email [khoury-graduateprograms@northeastern.edu][khoury-grad-mailbox]**
 
 To solicit common wisdom, post your question on the 
 [Khoury PhDs Slack][khoury-slack] `#everyone` channel.
@@ -53,3 +54,5 @@ To solicit common wisdom, post your question on the
 [khoury-grad-mailbox]: mailto:khoury-graduateprograms@northeastern.edu
 [our-wiki]: https://github.com/khoury-gsa/khoury-gsa.github.io/wiki/FAQ
 [notebook-sharepoint]: https://northeastern.sharepoint.com/sites/KhouryResourceCenter/SitePages/PHD.aspx?csf=1&web=1&e=Vbcor3
+[laura-box]: mailto://l.adrien@northeastern.edu
+[pete-box]: mailto://p.morency@northeastern.edu
