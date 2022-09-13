@@ -35,12 +35,19 @@ If you have a question regarding the PhD program, the following resources usuall
 * Crowd-sourced by students: [PhD Hub on Confluence][confluence], [a Google Doc][notebook-gdoc],
   [KGSA website wiki][our-wiki]
 
-Is the question remains, reach out to Laura or Pete, depending on the nature of
+If the question remains, reach out to Laura or Pete, depending on the nature of
 question and your specialization:
 
-| Laura Adrien ([l.adrien@northeastern.edu][laura-box]) | Pete Morency ([p.morency@northeastern.edu][pete-box]) |
-|:--------------------------------------|:----------------------------------------|
-|  - Advising for all PhD CY and PhD PHI; as well as PhD CS students in the Theory, & HCI research areas<br>- Funding (SGAs, Fellowships, tuition waivers, etc)<br>- Startup Fund<br>- Internships & work authorization<br>- Industry PhD<br>- Admissions | - Advising for all PhD CS students in the PL/FM/SE, AI & DS/Robotics, & Systems/Security research areas<br>- Lab seating<br>- Khoury Admin forms<br>- Proposal & Defense announcements & calendaring<br>- Student Groups<br>- PhD Representatives on Khoury Committees |
+| Laura Adrien ([l.adrien@northeastern.edu][laura-box])                                               | Pete Morency ([p.morency@northeastern.edu][pete-box])                                                 |
+|:----------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------|
+| Advising for all PhD CY and PhD PHI; as well as PhD CS students in the Theory, & HCI research areas | Advising for all PhD CS students in the PL/FM/SE, AI & DS/Robotics, & Systems/Security research areas |
+| Funding (SGAs, Fellowships, tuition waivers, etc)                                                   | Lab seating                                                                                           |
+| Startup Fund                                                                                        | Khoury Admin forms                                                                                    |
+| Internships & work authorization                                                                    | Proposal & Defense announcements & calendaring                                                        |
+| Industry PhD                                                                                        | Student Groups                                                                                        |
+| Admissions                                                                                          | PhD Representatives on Khoury Committees                                                              |
+
+<p></p>
 
 **If you're not sure, email [khoury-graduateprograms@northeastern.edu][khoury-grad-mailbox]**
 
@@ -54,5 +61,5 @@ To solicit common wisdom, post your question on the
 [khoury-grad-mailbox]: mailto:khoury-graduateprograms@northeastern.edu
 [our-wiki]: https://github.com/khoury-gsa/khoury-gsa.github.io/wiki/FAQ
 [notebook-sharepoint]: https://northeastern.sharepoint.com/sites/KhouryResourceCenter/SitePages/PHD.aspx?csf=1&web=1&e=Vbcor3
-[laura-box]: mailto://l.adrien@northeastern.edu
-[pete-box]: mailto://p.morency@northeastern.edu
+[laura-box]: mailto:l.adrien@northeastern.edu
+[pete-box]: mailto:p.morency@northeastern.edu
