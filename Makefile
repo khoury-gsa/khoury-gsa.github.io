@@ -13,3 +13,6 @@ build:
 
 deps:
 	bundle install
+
+deps-clean:
+	rm -rf ~/.local/share/gem/ruby
