@@ -3,7 +3,7 @@ layout: default
 title: About Us
 ---
 
-## About US
+## About Us
 
 We are [officially recognized Northeastern student organization](https://neu.campuslabs.com/engage/organization/kgsa). 
 Here is the list of the current active organizing members:
