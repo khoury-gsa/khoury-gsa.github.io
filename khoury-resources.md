@@ -10,7 +10,7 @@ title: Khoury Resources
 [startup]: https://northeastern.sharepoint.com/sites/KhouryResourceCenter/SitePages/Start-up-funds-and-purchasing-policies.aspx
 
 
-### PhD Student Representatives (2021/22)
+### PhD Student Representatives (2022/23)
 
 |-----------------------------------|---------------------------------------------|
 | Hiring Committee                  | David Liu, Peter Ivanov, Nikolaos Tziavelis |
