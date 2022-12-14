@@ -13,12 +13,12 @@ title: Khoury Resources
 ### PhD Student Representatives (2021/22)
 
 |-----------------------------------|---------------------------------------------|
-| Hiring Committee                  | Bahruz Jabiyev, Alexi Turcotte, Ankit Kumar |
+| Hiring Committee                  | David Liu, Peter Ivanov, Nikolaos Tziavelis |
 | Khoury 40th Anniversary Committee | Prasanth Murali                             |
-| PhD Curriculum Committee for CS   | Satyajit Gokhale                            |
-| PhD Curriculum Committee for CY   | Johanna Gunawan                             |
-| PhD PHI Admissions Committee      | Ethan Rogers                                |
-| PhD CS Admissions Committee       | Xueguang Luke Lyu                           |
+| PhD Curriculum Committee for CS   | Ankit Kumar                                 |
+| PhD Curriculum Committee for CY   | Harshad Sathaye                             |
+| PhD Curriculum Committee for PHI  | Teresa O'Leary                              |
+| PhD CS Admissions Committee       | Kimberly Do, Daniel Melcer                  |
 
 
 ### PhD Town Halls
