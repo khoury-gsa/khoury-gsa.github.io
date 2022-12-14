@@ -49,7 +49,7 @@ question and your specialization:
 
 <p></p>
 
-**If you're not sure, email [khoury-graduateprograms@northeastern.edu][khoury-grad-mailbox]**
+**If you're not sure, email [khoury-phdprograms@northeastern.edu][khoury-grad-mailbox]**
 
 To solicit common wisdom, post your question on the 
 [Khoury PhDs Slack][khoury-slack] `#everyone` channel.
@@ -58,7 +58,7 @@ To solicit common wisdom, post your question on the
 [program-reqs-old]: http://catalog.northeastern.edu/graduate/computer-information-science/computer-science/computer-science-phd/
 [confluence]: https://wiki.khoury.northeastern.edu/display/phdhub/
 [notebook-gdoc]: https://docs.google.com/document/d/1Suq1V96T41QlXbR3EBHR7l8B1KbFZGOuIxtDe-72VeE/edit?usp=sharing
-[khoury-grad-mailbox]: mailto:khoury-graduateprograms@northeastern.edu
+[khoury-grad-mailbox]: mailto:khoury-phdprograms@northeastern.edu
 [our-wiki]: https://github.com/khoury-gsa/khoury-gsa.github.io/wiki/FAQ
 [notebook-sharepoint]: https://northeastern.sharepoint.com/sites/KhouryResourceCenter/SitePages/PHD.aspx?csf=1&web=1&e=Vbcor3
 [laura-box]: mailto:l.adrien@northeastern.edu
