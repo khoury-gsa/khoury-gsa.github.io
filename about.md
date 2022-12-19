@@ -11,6 +11,7 @@ Here is the list of the current active organizing members:
 * [Yulia Belyakova](https://www.khoury.northeastern.edu/people/julia-belyakova/),
 * [Alberto Mario Ceballos Arroyo](https://www.khoury.northeastern.edu/people/alberto-mario-ceballos-arroyo/),
 * [Kutub Gandhi](https://www.khoury.northeastern.edu/people/kutub-gandhi/),
+* [Ankit Kumar](https://ankitku.github.io)
 * [Daniel Melcer](https://www.khoury.northeastern.edu/people/daniel-melcer/),
 * [Nathan Partlan](https://www.khoury.northeastern.edu/people/nathan-partlan/),
 * [Artem Pelenitsyn](https://www.khoury.northeastern.edu/people/artem-pelenitsyn/),
