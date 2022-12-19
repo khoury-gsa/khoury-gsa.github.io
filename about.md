@@ -17,6 +17,7 @@ Here is the list of the current active organizing members:
 * [Shuwen Jethro Sun](https://www.khoury.northeastern.edu/people/shuwen-jethro-sun/),
 * [Andrew Walter](https://www.khoury.northeastern.edu/people/andrew-thomas-walter/),
 * [Ming-Ho Yee](https://www.khoury.northeastern.edu/people/ming-ho-yee/).
+* [Ankit Kumar](https://ankitku.github.io).
 
 [gsa-slides-summer-2021]: https://docs.google.com/presentation/d/1IDrAmfLbNO42R-nqtaYK4XjNJhvrfVaOjc7W8QQGRwk/edit?usp=sharing
 [khoury-slack]: https://khouryphds.slack.com
