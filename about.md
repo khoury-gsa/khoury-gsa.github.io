@@ -14,8 +14,7 @@ Here is the list of the current active organizing members:
 * [Daniel Melcer](https://www.khoury.northeastern.edu/people/daniel-melcer/),
 * [Nathan Partlan](https://www.khoury.northeastern.edu/people/nathan-partlan/),
 * [Shuwen Jethro Sun](https://www.khoury.northeastern.edu/people/shuwen-jethro-sun/),
-* [Andrew Walter](https://www.khoury.northeastern.edu/people/andrew-thomas-walter/),
-* [Ming-Ho Yee](https://www.khoury.northeastern.edu/people/ming-ho-yee/).
+* [Andrew Walter](https://www.khoury.northeastern.edu/people/andrew-thomas-walter/)
 
 [gsa-slides-summer-2021]: https://docs.google.com/presentation/d/1IDrAmfLbNO42R-nqtaYK4XjNJhvrfVaOjc7W8QQGRwk/edit?usp=sharing
 [khoury-slack]: https://khouryphds.slack.com
